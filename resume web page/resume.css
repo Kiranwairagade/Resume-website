@@ -1,0 +1,14 @@
+
+header{
+        background-color: #303030;
+        color: #fff;
+        text-align: center;
+      }
+.section{
+  background-color:#808080;
+  text-align: left;
+  color: white;
+}	  
+table, th, td {
+  border: 1px solid black;
+}
